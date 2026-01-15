@@ -1,6 +1,6 @@
 # Bienvenida
 
-¡Hola! Soy Ana Pérez, desarrolladora de aplicaciones web en formación.  
+¡Hola! Soy Joaquin Martinez, desarrollador de aplicaciones web en formación.  
 En este sitio encontrarás información sobre mi perfil, mis proyectos y cómo contactar conmigo.
 
 ## ¿Qué vas a encontrar aquí?
