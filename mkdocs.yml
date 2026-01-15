@@ -1,0 +1,10 @@
+site_name: Portfolio de Joaquin Rios
+site_url: https://joaquinalbares.github.io/portfolio-mkdocs/
+theme:
+  name: material
+
+nav:
+  - Inicio: index.md
+  - Sobre mí: sobre-mi.md
+  - Proyectos: proyectos.md
+  - Contacto: contacto.md
