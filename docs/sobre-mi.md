@@ -1,6 +1,6 @@
 # Sobre mí
 
-Me llamo Ana Pérez y soy estudiante de Desarrollo de Aplicaciones Web.  
+Me llamo Joaquín Martínez y soy estudiante de Desarrollo de Aplicaciones Web.  
 Me interesan especialmente el backend con PHP y el frontend con JavaScript.
 
 ## Formación
