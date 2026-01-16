@@ -2,8 +2,8 @@
 
 Si quieres ponerte en contacto conmigo, puedes usar alguno de los siguientes medios:
 
-- Correo: joaquin.martinez@example.com
-- GitHub: [@anaperezdev](https://github.com/joaquinprof)
+- Correo: joaquin.prof@example.com
+- GitHub: [@joaquinprof](https://github.com/joaquinprof)
 - LinkedIn: https://www.linkedin.com/in/joaquinprof/
 
 ## Ejemplo de código
@@ -16,3 +16,4 @@ function saludar(nombre) {
 }
 
 saludar("Joaquin");
+```

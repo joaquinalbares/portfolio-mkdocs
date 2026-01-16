@@ -1,12 +1,12 @@
 # Sobre mí
 
-Me llamo Joaquín Martínez y soy estudiante de Desarrollo de Aplicaciones Web.  
+Me llamo Joaquín Martínez y soy profesor de Desarrollo de Aplicaciones Web.  
 Me interesan especialmente el backend con PHP y el frontend con JavaScript.
 
 ## Formación
 
-- Ciclo formativo de grado superior en Desarrollo de Aplicaciones Web.
-- Cursos en línea sobre HTML, CSS y JavaScript.
+- Grado en INFORMÁTICA DE SISTEMAS.
+- Cursos en línea sobre Edición de Video, Desarrollo Backend.
 - Talleres de Git y control de versiones.
 
 ## Habilidades técnicas
